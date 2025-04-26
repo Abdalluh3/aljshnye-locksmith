@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>الجعشني للمفاتيح</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f8f8f8;
+    }
+    header {
+      background-color: #333;
+      color: white;
+      padding: 20px;
+      text-align: center;
+    }
+    .container {
+      padding: 20px;
+      max-width: 900px;
+      margin: auto;
+    }
+    .section {
+      background: white;
+      margin-bottom: 20px;
+      padding: 20px;
+      border-radius: 10px;
+      box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    }
+    .section h2 {
+      margin-top: 0;
+    }
+    .service {
+      margin-bottom: 10px;
+    }
+    footer {
+      background-color: #333;
+      color: white;
+      text-align: center;
+      padding: 15px;
+      margin-top: 40px;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>الجعشني للمفاتيح</h1>
+    <p>خدمة مفاتيح شاملة - تعز، اليمن</p>
+  </header>
+  <div class="container">
+    <div class="section">
+      <h2>من نحن</h2>
+      <p>نحن محل الجعشني للمفاتيح، نقدم خدمات احترافية في برمجة ونسخ جميع أنواع المفاتيح، وفتح المنازل والسيارات والخزنات، وإصلاح المغالق بجودة عالية.</p>
+    </div>
+    <div class="section">
+      <h2>خدماتنا</h2>
+      <div class="service">- برمجة مفاتيح السيارات الحديثة والقديمة</div>
+      <div class="service">- نسخ المفاتيح لجميع الأغراض</div>
+      <div class="service">- فتح المنازل والسيارات المغلقة</div>
+      <div class="service">- فتح الخزنات بأنواعها</div>
+      <div class="service">- إصلاح واستبدال المغالق</div>
+    </div>
+    <div class="section">
+      <h2>موقعنا</h2>
+      <p>اليمن - تعز - شارع الحصب، مكتب النقل، بجانب الأسود للبطاريات، مقابل مخبز السعادة.</p>
+    </div>
+    <div class="section">
+      <h2>تواصل معنا</h2>
+      <p>780232834 - 776516330 - 730019974 - 735361500</p>
+    </div>
+  </div>
+  <footer>
+    &copy; 2024 الجعشني للمفاتيح - جميع الحقوق محفوظة
+  </footer>
+</body>
+</html>
